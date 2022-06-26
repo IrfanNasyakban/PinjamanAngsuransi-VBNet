@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Formlogin.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Formadmin.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Formutama.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.registrasinasabah.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pinjamannasabah.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Formangsuranadmin.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Formkonfirmasi.resources
